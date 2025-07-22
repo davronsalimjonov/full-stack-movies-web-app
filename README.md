@@ -1,3 +1,11 @@
+## Credits
+
+This project is originally built by [Raimondas Sileikis](https://github.com/RaimondasSileikis)  
+Source repo: [react-nestjs-movies-db](https://github.com/RaimondasSileikis/react-nestjs-movies-db)
+
+I have made custom modifications to fit my personal portfolio and learning goals.
+
+
 # React NestJS Movies DB Application
 
 This repository contains a full-stack TypeScript application built with <a href="https://react.dev/">React</a> and <a href="https://nestjs.com/">NestJS</a> , using <a href="https://www.prisma.io/">Prisma</a> as the ORM to interact with a  <a href="https://www.postgresql.org/">PostgreSQL</a> database. The application offers a range of features, including user authentication with login and sign-up functionalities. Users can also utilize The Movie Database <a href="https://www.themoviedb.org/">(TMDB)</a> API to search for movies and access detailed information about them.
